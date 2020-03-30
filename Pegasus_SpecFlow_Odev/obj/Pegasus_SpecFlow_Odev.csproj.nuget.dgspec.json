@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mustafa YARDIMCI\\Desktop\\testinium\\dökümanlar\\Eğitimler\\7-BDD\\Ödev\\Pegasus_SpecFlow_Odev_Mustafa Yardımcı\\Pegasus_SpecFlow_Odev\\Pegasus_SpecFlow_Odev.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mustafa YARDIMCI\\Desktop\\testinium\\dökümanlar\\Eğitimler\\7-BDD\\Ödev\\Pegasus_SpecFlow_Odev_Mustafa Yardımcı\\Pegasus_SpecFlow_Odev\\Pegasus_SpecFlow_Odev.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mustafa YARDIMCI\\Desktop\\testinium\\dökümanlar\\Eğitimler\\7-BDD\\Ödev\\Pegasus_SpecFlow_Odev_Mustafa Yardımcı\\Pegasus_SpecFlow_Odev\\Pegasus_SpecFlow_Odev.csproj",
+        "projectName": "Pegasus_SpecFlow_Odev",
+        "projectPath": "C:\\Users\\Mustafa YARDIMCI\\Desktop\\testinium\\dökümanlar\\Eğitimler\\7-BDD\\Ödev\\Pegasus_SpecFlow_Odev_Mustafa Yardımcı\\Pegasus_SpecFlow_Odev\\Pegasus_SpecFlow_Odev.csproj",
+        "packagesPath": "C:\\Users\\Mustafa YARDIMCI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mustafa YARDIMCI\\Desktop\\testinium\\dökümanlar\\Eğitimler\\7-BDD\\Ödev\\Pegasus_SpecFlow_Odev_Mustafa Yardımcı\\Pegasus_SpecFlow_Odev\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mustafa YARDIMCI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "DotNetSeleniumExtras.PageObjects": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "DotNetSeleniumExtras.PageObjects.Core": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "Selenium.Chrome.WebDriver": {
+              "target": "Package",
+              "version": "[79.0.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[80.0.3987.10600, )"
+            },
+            "Selenium.WebDriver.Extensions": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Selenium.WebDriver.IEDriver": {
+              "target": "Package",
+              "version": "[3.150.1, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.1.89, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.1.89, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.1.89, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
